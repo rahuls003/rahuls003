@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahuls003
+- 👋 Hi, I’m Rahul Saini
 - 👀 I’m interested in Coding and learning new technologies.
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on linkedIn
